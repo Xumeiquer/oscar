@@ -1,5 +1,5 @@
 # OSCAR
-Oscar is just a simple name for a simple DNS resolver with HTTP API capabilities.
+Oscar is just a simple name for a simple DNS server with HTTP API capabilities.
 
 Oscar implements an authoritative DNS server a long with HTTP Server. You may already know what is a
 DNS server, if not go to [Wikipedia](https://en.wikipedia.org/wiki/Name_server). What is kind of a new
